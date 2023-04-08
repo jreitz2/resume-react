@@ -1,0 +1,1 @@
+This project is a simple resume building app. It's my first real react project! It will demonstrate an understanding of how to use components, state, and props. 
